@@ -11,3 +11,6 @@ Después de instalarlo, asegurese de crear una carpeta dentro del entorno virtua
 Cuanto termine de hacer los dos pasos anteriores, debe activar el entorno virtual desde la terminal con el siguiente código: apienv\scripts\activate.bat
 
 Luego de realizar correctamente los pasos anteriores, puede pasar a consumir la REST API, debe tener el programa de insomnia instalado, o postman si es de su agrado.
+
+Si ya está familiarizado con la interfaz de insomnia, puede utilizarlo. Dentro de la REST API, puede crear, modificar, eliminar y consultar los productos dentro de la
+lista con formato Json.
